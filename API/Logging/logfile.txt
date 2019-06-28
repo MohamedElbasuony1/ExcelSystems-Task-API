@@ -1,0 +1,19 @@
+2019-06-28 23:20:47.8543 INFO before User Sign Up
+2019-06-28 23:20:50.5606 INFO UserName is Unique
+2019-06-28 23:20:51.1506 INFO  User Sign Up Successfully
+2019-06-28 23:21:08.6267 INFO Before User Login
+2019-06-28 23:21:08.6267 INFO User Is Authenticated
+2019-06-28 23:21:20.0658 INFO before User Sign Up
+2019-06-28 23:21:20.1458 INFO UserName is Unique
+2019-06-28 23:21:20.2611 INFO  User Sign Up Successfully
+2019-06-28 23:21:21.7854 INFO Geting Product for user12
+2019-06-28 23:21:39.5515 INFO Before Product Add
+2019-06-28 23:21:39.9471 INFO Product Added!!
+2019-06-28 23:21:40.1128 INFO Geting Product for user12
+2019-06-28 23:22:00.8921 INFO Before Product Add
+2019-06-28 23:22:00.9840 INFO Product Added!!
+2019-06-28 23:22:01.1587 INFO Geting Product for user12
+2019-06-28 23:22:04.5538 INFO Before Product Delete
+2019-06-28 23:22:05.0675 INFO Product Deleted
+2019-06-28 23:22:05.1882 INFO Geting Product for user12
+2019-06-28 23:22:20.3269 INFO Geting Product for user12

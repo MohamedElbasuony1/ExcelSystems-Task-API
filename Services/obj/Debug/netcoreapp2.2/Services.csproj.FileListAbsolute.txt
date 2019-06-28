@@ -1,0 +1,16 @@
+C:\Users\Basuony\source\repos\Task\Services\bin\Debug\netcoreapp2.2\Services.deps.json
+C:\Users\Basuony\source\repos\Task\Services\bin\Debug\netcoreapp2.2\Services.dll
+C:\Users\Basuony\source\repos\Task\Services\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Basuony\source\repos\Task\Services\bin\Debug\netcoreapp2.2\DTOs.dll
+C:\Users\Basuony\source\repos\Task\Services\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\Basuony\source\repos\Task\Services\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\Basuony\source\repos\Task\Services\bin\Debug\netcoreapp2.2\DTOs.pdb
+C:\Users\Basuony\source\repos\Task\Services\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\Basuony\source\repos\Task\Services\obj\Debug\netcoreapp2.2\Services.csprojAssemblyReference.cache
+C:\Users\Basuony\source\repos\Task\Services\obj\Debug\netcoreapp2.2\Services.csproj.CoreCompileInputs.cache
+C:\Users\Basuony\source\repos\Task\Services\obj\Debug\netcoreapp2.2\Services.AssemblyInfoInputs.cache
+C:\Users\Basuony\source\repos\Task\Services\obj\Debug\netcoreapp2.2\Services.AssemblyInfo.cs
+C:\Users\Basuony\source\repos\Task\Services\obj\Debug\netcoreapp2.2\Services.csproj.CopyComplete
+C:\Users\Basuony\source\repos\Task\Services\bin\Debug\netcoreapp2.2\Services.pdb
+C:\Users\Basuony\source\repos\Task\Services\obj\Debug\netcoreapp2.2\Services.dll
+C:\Users\Basuony\source\repos\Task\Services\obj\Debug\netcoreapp2.2\Services.pdb

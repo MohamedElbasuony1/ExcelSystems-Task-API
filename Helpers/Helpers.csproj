@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.1.1" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="8.4.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Contracts">
+      <HintPath>..\Contracts\bin\Debug\netcoreapp2.2\Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="DAL">
+      <HintPath>..\DAL\bin\Debug\netcoreapp2.2\DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="DTOs">
+      <HintPath>..\DTOs\bin\Debug\netcoreapp2.2\DTOs.dll</HintPath>
+    </Reference>
+    <Reference Include="LoggerService">
+      <HintPath>..\LoggerService\bin\Debug\netcoreapp2.2\LoggerService.dll</HintPath>
+    </Reference>
+    <Reference Include="Models">
+      <HintPath>..\Models\bin\Debug\netcoreapp2.2\Models.dll</HintPath>
+    </Reference>
+    <Reference Include="Repos">
+      <HintPath>..\Repos\bin\Debug\netcoreapp2.2\Repos.dll</HintPath>
+    </Reference>
+    <Reference Include="Services">
+      <HintPath>..\Services\bin\Debug\netcoreapp2.2\Services.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

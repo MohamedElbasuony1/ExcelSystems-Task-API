@@ -1,0 +1,12 @@
+C:\Users\Basuony\source\repos\Task\Contracts\bin\Debug\netcoreapp2.2\Contracts.deps.json
+C:\Users\Basuony\source\repos\Task\Contracts\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Basuony\source\repos\Task\Contracts\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\Basuony\source\repos\Task\Contracts\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\Basuony\source\repos\Task\Contracts\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\Basuony\source\repos\Task\Contracts\obj\Debug\netcoreapp2.2\Contracts.csprojAssemblyReference.cache
+C:\Users\Basuony\source\repos\Task\Contracts\obj\Debug\netcoreapp2.2\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Basuony\source\repos\Task\Contracts\obj\Debug\netcoreapp2.2\Contracts.AssemblyInfoInputs.cache
+C:\Users\Basuony\source\repos\Task\Contracts\obj\Debug\netcoreapp2.2\Contracts.AssemblyInfo.cs
+C:\Users\Basuony\source\repos\Task\Contracts\obj\Debug\netcoreapp2.2\Contracts.csproj.CopyComplete
+C:\Users\Basuony\source\repos\Task\Contracts\obj\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Basuony\source\repos\Task\Contracts\obj\Debug\netcoreapp2.2\Contracts.pdb

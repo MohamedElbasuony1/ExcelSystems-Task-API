@@ -1,0 +1,9 @@
+C:\Users\Basuony\source\repos\Task\DTOs\bin\Debug\netcoreapp2.2\DTOs.deps.json
+C:\Users\Basuony\source\repos\Task\DTOs\bin\Debug\netcoreapp2.2\DTOs.dll
+C:\Users\Basuony\source\repos\Task\DTOs\bin\Debug\netcoreapp2.2\DTOs.pdb
+C:\Users\Basuony\source\repos\Task\DTOs\obj\Debug\netcoreapp2.2\DTOs.csprojAssemblyReference.cache
+C:\Users\Basuony\source\repos\Task\DTOs\obj\Debug\netcoreapp2.2\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Basuony\source\repos\Task\DTOs\obj\Debug\netcoreapp2.2\DTOs.AssemblyInfoInputs.cache
+C:\Users\Basuony\source\repos\Task\DTOs\obj\Debug\netcoreapp2.2\DTOs.AssemblyInfo.cs
+C:\Users\Basuony\source\repos\Task\DTOs\obj\Debug\netcoreapp2.2\DTOs.dll
+C:\Users\Basuony\source\repos\Task\DTOs\obj\Debug\netcoreapp2.2\DTOs.pdb

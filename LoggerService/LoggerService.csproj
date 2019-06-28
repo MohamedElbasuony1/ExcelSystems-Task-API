@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="4.6.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Contracts">
+      <HintPath>..\Contracts\bin\Debug\netcoreapp2.2\Contracts.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

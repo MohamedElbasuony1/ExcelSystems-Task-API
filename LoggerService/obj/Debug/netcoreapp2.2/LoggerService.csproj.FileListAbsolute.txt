@@ -1,0 +1,14 @@
+C:\Users\Basuony\source\repos\Task\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.csprojAssemblyReference.cache
+C:\Users\Basuony\source\repos\Task\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Basuony\source\repos\Task\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Basuony\source\repos\Task\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.AssemblyInfo.cs
+C:\Users\Basuony\source\repos\Task\LoggerService\bin\Debug\netcoreapp2.2\LoggerService.deps.json
+C:\Users\Basuony\source\repos\Task\LoggerService\bin\Debug\netcoreapp2.2\LoggerService.dll
+C:\Users\Basuony\source\repos\Task\LoggerService\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Basuony\source\repos\Task\LoggerService\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\Basuony\source\repos\Task\LoggerService\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\Basuony\source\repos\Task\LoggerService\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\Basuony\source\repos\Task\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.csproj.CopyComplete
+C:\Users\Basuony\source\repos\Task\LoggerService\bin\Debug\netcoreapp2.2\LoggerService.pdb
+C:\Users\Basuony\source\repos\Task\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.dll
+C:\Users\Basuony\source\repos\Task\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.pdb
